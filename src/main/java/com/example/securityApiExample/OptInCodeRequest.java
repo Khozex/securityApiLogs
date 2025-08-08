@@ -9,7 +9,7 @@ public class OptInCodeRequest {
         this.optInCode = optInCode;
     }
 
-    //Comente aqui: toString para ver o comportamento somente com o logback
+    //Descomente essa seção para ocultar informações pessoais no log com a substituição de valores
     //    @Override
     //    public String toString() {
     //        return "OptInCodeRequest{" +
